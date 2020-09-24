@@ -3,9 +3,8 @@
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=snapworks&count_private=true&show_icons=true&theme=default&include_all_commits=true&langs_count=10](https://github-readme-stats.vercel.app/api?username=snapworks&count_private=true&show_icons=true&theme=default&include_all_commits=true&langs_count=10&hide_border=true&hide=prs,issues,contribs&layout=compact" />
 
-  SnapWorks makes school and classroom communication to parents and students simple and easy. In this new version, SnapWorks introduces Virtual Classrooms for schools, as well as Online Coaching to students from our expert teachers within the SnapWorks community.
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snapworks&langs_count=10)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snapworks&langs_count=10&layout=compact)
 
 
 [website]: https://snapworks.me
